@@ -1,16 +1,4 @@
-# testing
+## OUTPUT PROJECT
+![output3](https://github.com/Fadhellya/latihanecomerce/assets/113502315/940a53a2-9088-47ab-8839-6454bccefbe6)![output - Copy](https://github.com/Fadhellya/latihanecomerce/assets/113502315/83dd9766-e3ad-4368-a67c-f42b36c316c3)
+![output2](https://github.com/Fadhellya/latihanecomerce/assets/113502315/b0231f24-13dc-4475-8182-22d6ad60fc7b)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
